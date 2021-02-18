@@ -4,10 +4,10 @@ Brief Description:
 Chicken Cutlet, is a dish that mainly includes chicken(as stated by the name) and puts a mixture around it, inorder to make a delishous snack(or lunch) for all ages. It can be deep fried or airfried, and is genuienly healthy.
 
 Ingredients:
-Strips of chicken
-Flour
-Egg
-Breading
+Strips of chicken,
+Flour,
+Egg,
+Breading,
 
 Recipe:
 Take several strips of chicken, and pound each one to about a half a inch thick.
